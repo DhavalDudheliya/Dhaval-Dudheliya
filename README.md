@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhavaldudheliya&label=Profile%20views&color=0e75b6&style=flat" alt="dhavaldudheliya" /> </p>
 
+- 👨‍💻 My Portfolio - [https://dhavaldudheliya.vercel.app/](https://dhavaldudheliya.vercel.app/)
+
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/DhavalDudheliya](https://linktr.ee/DhavalDudheliya)
+- 👨‍💻 All of my project's links are available at [https://linktr.ee/DhavalDudheliya](https://linktr.ee/DhavalDudheliya)
 
 - 💬 Ask me about **react and node**
 
