@@ -6,11 +6,11 @@
 
 - 👨‍💻 My Portfolio - [https://dhavaldudheliya.vercel.app/](https://dhavaldudheliya.vercel.app/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently mastering **NextJs and NodeJs**
 
 - 👨‍💻 All of my project's links are available at [https://linktr.ee/DhavalDudheliya](https://linktr.ee/DhavalDudheliya)
 
-- 💬 Ask me about **react and node**
+- 💬 Ask me about **React, Node, Express and MongoDB**
 
 - 📫 How to reach me **dhavaldudheliya77@gmail.com**
 
