@@ -2,20 +2,20 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ██╗        ║
-║        ██╔══██╗██║  ██║██╔══██╗██║   ██║██╔══██╗██║        ║
-║        ██║  ██║███████║███████║██║   ██║███████║██║        ║
-║        ██║  ██║██╔══██║██╔══██║╚██╗ ██╔╝██╔══██║██║        ║
-║        ██████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║  ██║███████╗   ║
-║        ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝   ║
-║                                                              ║
-║              Full Stack Developer  ·  India                  ║
-╚══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                ║
+║                          ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ██╗                          ║
+║                          ██╔══██╗██║  ██║██╔══██╗██║   ██║██╔══██╗██║                          ║
+║                          ██║  ██║███████║███████║██║   ██║███████║██║                          ║
+║                          ██║  ██║██╔══██║██╔══██║╚██╗ ██╔╝██╔══██║██║                          ║
+║                          ██████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║  ██║███████╗                     ║
+║                          ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝                     ║
+║                                                                                                ║
+║                                Full Stack Developer  ·  India                                  ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dhaval+%F0%9F%91%8B;Full+Stack+Developer+%7C+2.5%2B+Years;React+%2B+Next.js+%2B+Node.js+%2B+TypeScript;Building+things+that+actually+ship+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dhaval+Dudheliya+%F0%9F%91%8B;Full+Stack+Developer+%7C+2.5%2B+Years+Experience;React+%2B+Next.js+%2B+Node.js+%2B+TypeScript;Building+things+that+actually+ship+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -30,48 +30,13 @@
 
 ---
 
-<!-- Terminal About -->
-```bash
-$ whoami
-> Dhaval Dudheliya — Full Stack Developer, Surat 🇮🇳
+## 🧑‍💻 About Me
 
-$ cat about.txt
-> 2.5+ years building & shipping production-grade web apps
-> React · Next.js · Node.js · TypeScript are my daily drivers
-> Built AI-powered calling systems, worker-slave architectures,
-> payment integrations, and cross-platform desktop apps
-> Project Lead @ NexusLink — owned architecture, led team of 3,
-> engaged directly with clients to ship products that matter
-
-$ ls interests/
-> distributed-systems/   system-design/   ai-integrations/
-> clean-architecture/    open-source/     coffee-and-code/
-
-$ echo $STATUS
-> Open to exciting collaborations 🤝
-```
-
----
-
-<!-- Experience Timeline -->
-## 📌 Where I've Been
-
-```
-2026  ████████████████████████████████  Project Lead & Full Stack Dev
-      NexusLink Services Pvt. Ltd.      Led team · AWS · CI/CD · Clients
-
-2025  ████████████████████████████████  Full Stack Developer
-      NexusLink Services Pvt. Ltd.      Redis · BullMQ · ElevenLabs · Twilio
-
-2024  ████████████████████████████████  Full Stack Developer
-      Vasundhara Infotech LLP           ElectronJS · Stripe · Strapi
-
-2023  ████████████████                  Full Stack Developer Intern
-      Vasundhara Infotech LLP           Puppeteer · Formik · Framer Motion
-
-2023  ████████                          Trainee Full Stack Developer
-      Outamation Technologies           MERN · REST APIs · Git
-```
+- 🚀 Full Stack Developer with **2.5+ years** of experience building scalable web applications end-to-end
+- 🌱 Currently deepening expertise in **system design**, **AWS**, and **distributed systems**
+- 💬 Ask me about **React, Next.js, Node.js, TypeScript, Redis, BullMQ**
+- 📫 Reach me at **dhavaldudheliya77@gmail.com**
+- 🌐 Check out my work at **[dhavaldudheliya.site](https://dhavaldudheliya.site)**
 
 ---
 
@@ -87,6 +52,8 @@ $ echo $STATUS
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![ElectronJS](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000?style=flat-square&logoColor=white)
@@ -125,40 +92,6 @@ $ echo $STATUS
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </div>
-
----
-
-<!-- Projects -->
-## 🔨 Things I've Built
-
-<table>
-<tr>
-<td width="50%">
-
-**🧩 SupportHub — CRM**
-```
-Next.js · Node.js · PostgreSQL · Redis · WebSockets
-```
-Multi-tenant CRM with tenant-isolated subdomains,
-email-to-ticket ingestion, AI auto-tagging,
-real-time WebSocket updates & hierarchical RBAC.
-
-</td>
-<td width="50%">
-
-**🎓 Lingo — Language Learning**
-```
-Next.js · PostgreSQL · Drizzle ORM · Clerk · Stripe
-```
-Duolingo-style platform with gamification (points,
-hearts, quests, leaderboard), OAuth auth,
-Stripe subscriptions & ElevenLabs AI voice.
-
-</td>
-</tr>
-</table>
-
-> 🔗 More projects → **[dhavaldudheliya.site](https://dhavaldudheliya.site)**
 
 ---
 
