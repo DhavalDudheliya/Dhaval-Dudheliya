@@ -106,16 +106,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhavaldudheliya&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=CDD9E5" width="40%" />
 </div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              Always building. Always learning.                   ║
-║              Let's ship something great together 🚀              ║ 
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
