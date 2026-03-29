@@ -112,10 +112,10 @@
 <div align="center">
 
 ```
-╔════════════════════════════════════════════╗
-║  Always building. Always learning.         ║
-║  Let's ship something great together 🚀    ║
-╚════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║              Always building. Always learning.                   ║
+║              Let's ship something great together 🚀              ║ 
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
